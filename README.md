@@ -1,5 +1,15 @@
-## Hi there 👋
+## oi eu sou o Gabriel Zeninho 👋
+<div style="display: inline_block"><br>
+  <img lign="center" alt="gabi-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img lign="center" alt="gabi-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img lign="center" alt="gabi-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img lign="center" alt="gabi-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img lign="center" alt="gabi-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+</div>
 
+##
+ <a href="https://www.instagram.com/zeninho_biel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/gabriel-zeninho-a465ba27b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <!--
 **zzeninho/zzeninho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
